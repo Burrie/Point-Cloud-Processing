@@ -1,0 +1,3 @@
+/Users/xiangqiong/Desktop/DHMT/region_growing/build/CMakeFiles/region_growing_segmentation.dir
+/Users/xiangqiong/Desktop/DHMT/region_growing/build/CMakeFiles/edit_cache.dir
+/Users/xiangqiong/Desktop/DHMT/region_growing/build/CMakeFiles/rebuild_cache.dir
